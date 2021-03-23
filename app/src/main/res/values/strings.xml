@@ -1,6 +1,6 @@
 <!--This is the resource file that has all the text for localization-->
 <resources>
     <string name="app_name">My Android Application</string>
-    <string name="app_welcome">Welcome To My App</string>
+    <string name="app_welcome">Welcome To My Android App</string>
     <string name="btn_login">Login</string>
 </resources>
